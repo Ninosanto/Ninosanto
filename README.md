@@ -1,4 +1,4 @@
-## ### Boas vindas ao meu perfil 💙👋
+ ### Boas vindas ao meu perfil 💙👋
 
 Meu nome é Gabrielly santos 
 
@@ -10,4 +10,3 @@ Meu nome é Gabrielly santos
 13gabisanntos@gmail.com
 @gaby_yy2037
 
-![](link)

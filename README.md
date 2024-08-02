@@ -10,4 +10,4 @@ Meu nome é Gabrielly santos
 13gabisanntos@gmail.com
 @gaby_yy2037
 
-![descrição do GIF](link GIF do Tenor)
+![](link)
